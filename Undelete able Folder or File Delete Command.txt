@@ -1,0 +1,13 @@
+Start
+ 	Open Cmd
+		Type> cd /d then copy folder location and past in cmd
+ 	Press Enter
+		Type>dir /x
+ 	Then
+		Type>rmdir /q/s then type folder or file name
+	Press Enter
+		Type> Exit
+	Close CMD
+End
+
+This Command Developed By Shahbaz Shabbir

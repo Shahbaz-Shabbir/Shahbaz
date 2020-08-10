@@ -1,0 +1,19 @@
+Start
+	Open Cmd
+		Type> winsat prepop
+	Then\
+		Type> Winsat Formal
+	Exit Cmd
+End
+
+Developed By Shahbaz Shabbir
+
+How To Check Windows Re Run Assessment
+Start
+	Open Windows Power Shell
+	Then\
+		Type> get-wmiobject -class win32_winsat
+	Press Enter to Show Config
+End
+
+Developed By Shahbaz Shabbir
