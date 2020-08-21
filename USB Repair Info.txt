@@ -1,0 +1,8 @@
+http://www.usbdev.ru
+1st Download ChipGenius From Above Website
+Plugin USB Run Software Find Chip Vender
+Then Download Chip Vender Tool
+Install And Run
+Enjoy
+
+Developed By Shahbaz Shabbir
