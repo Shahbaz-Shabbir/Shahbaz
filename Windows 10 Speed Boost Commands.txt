@@ -1,0 +1,19 @@
+
+1 :Open RUN
+	Then Type
+		%temp%
+
+2 :Open RUN
+	Then Type
+ 		temp
+
+3 :Open RUN
+	Then Type
+ 		prefetch
+
+4 :Open Task Manager
+	Then Click on Startup
+		disable the some malicious startup program
+
+
+	Developed By Shahbaz Shabbir
