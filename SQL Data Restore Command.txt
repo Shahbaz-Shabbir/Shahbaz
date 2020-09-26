@@ -17,3 +17,5 @@ MOVE 'ShahbazShabbir_log' TO 'D:\ZeroBit\Database\ShahbazShabbir.ldf',
 REPLACE;
 
 Note: Change the file path according to you computer folder structure.
+
+                        Shahbaz Shabbir (Computer Software Engineer)
