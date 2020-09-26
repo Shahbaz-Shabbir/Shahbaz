@@ -1,0 +1,19 @@
+1) Open visual studio
+2) Click on view
+3) Click on SQL Server Object Explorer
+4) Click on SQL Server
+5) Right click on (localdb)\MSSQLLocalDb
+6) Click New Query
+7) Run following command
+
+RESTORE FILELISTONLY
+FROM DISK = 'D:\ZeroBit\Database\ShahbazShabbir.bak'
+
+RESTORE DATABASE ShahbazShabbir
+FROM DISK = 'D:\ZeroBit\Database\ShahbazShabbir.bak'
+
+WITH MOVE 'ShahbazShabbir' TO 'D:\ZeroBit\Database\ShahbazShabbir.mdf',
+MOVE 'ShahbazShabbir_log' TO 'D:\ZeroBit\Database\ShahbazShabbir.ldf',
+REPLACE;
+
+Note: Change the file path according to you computer folder structure.
