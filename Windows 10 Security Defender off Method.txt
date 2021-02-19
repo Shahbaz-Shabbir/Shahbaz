@@ -1,0 +1,18 @@
+Start
+	Open Windows Security Defender
+		
+	Then\
+		
+		Off Real time Protection
+
+	GoTo
+		C:\Windows\SystemApps
+	Rename
+		The Folder [Microsoft.Windows.SecHealthUI_cw5n1h2txyewy]
+
+			AS
+				BAK_Microsoft.Windows.SecHealthUI_cw5n1h2txyewy
+	Close All Tasks
+End
+
+Developed By Shahbaz Shabbir
