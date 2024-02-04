@@ -6,7 +6,8 @@ Database DDShahbazDB
 
 #UPDATES
 
-### 28-7-2019
+### 04-2-2024
+
 Add Collem 'barcode' in product table with nchar 255
 
 ### Views 
@@ -27,18 +28,24 @@ Press Win+R type following and press enter.
 ```
 use following sql query to delete database.
 ```sql
-drop database DDPOSDB
+drop database DATABASE name
 go
 ```
 
 ### Database Managment Tool
 (Downloding Link)[https://fishcodelib.com/Database.htm]
 
-### Microsoft� SQL Server� 2014 Express
+### Microsoft SQL Server 2014 Express  (Windows 7)
 (Downloding Link Express 32BIT\SQLEXPR_x86_ENU.exe) [https://www.microsoft.com/en-pk/download/details.aspx?id=42299]
+
+### Microsoft SQL Server 2014 Express  (Windows 10 or Later)
+(Downloding Link Express 32BIT\SQLEXPR_x86_ENU.exe) [https://www.microsoft.com/en-us/download/details.aspx?id=101064]
 
 ### Microsoft .NET Framework 4.5 (Windows 7)
 (Downloding Link) [https://www.microsoft.com/en-pk/download/details.aspx?id=30653]
+
+### Microsoft .NET Framework 4.5 (Windows 7) Latest
+(Downloding Link) [https://www.mediafire.com/file/pb3qpjb563nw1fz/1--dotnetfx_4.5-x86-x64-AllOS-ENU.rar/file]
 
 ### Microsoft .NET Framework 3.5 (Windows 8,8.1,10)
 (Tutorial Link) [https://docs.microsoft.com/en-us/dotnet/framework/install/dotnet-35-windows-10]
