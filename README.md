@@ -6,7 +6,7 @@ Database DDShahbazDB
 
 #UPDATES
 
-### 04-2-2024
+### 14-Mar-2024
 
 Add Collem 'barcode' in product table with nchar 255
 
