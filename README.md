@@ -32,6 +32,19 @@ drop database DATABASE name
 go
 ```
 
+use following sql query to delete database table.
+```sql
+Delete from cashdetail
+Delete from cashMaster
+Delete from invmaster
+Delete from invTransdetail
+Delete from products
+Delete from categories
+Delete from manufactures
+Delete from vcs where vcid >=15
+go
+```
+
 ### Database Managment Tool
 (Downloding Link)[https://fishcodelib.com/Database.htm]
 
